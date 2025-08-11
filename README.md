@@ -76,6 +76,7 @@ You can explore the repositories on my profile for real implementations.
 - Layered architecture for clarity
 - Meaningful commit messages
 - Test where logic has risk or complexity
+- Robust API design (pagination, filtering, versioning, auth)
 
 ---
 
