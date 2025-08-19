@@ -67,7 +67,6 @@ You can explore the repositories on my profile for real implementations.
 </div>
 
 > Note: Language stats approximate public repo code—not full expertise.
-> Note: Language stats approximate public repo code—not full expertise.
 
 ---
 
