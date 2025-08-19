@@ -50,27 +50,23 @@ You can explore the repositories on my profile for real implementations.
 
 ---
 
-## 📊 At a Glance (Dynamic Stats)
+## 📊 At a Glance
 
-<a href="https://github.com/satyamparmar-0">
+<div align="center">
+
   <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=satyamparmar-0&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github.com/satyamparmar-0">
   <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamparmar-0&layout=compact&hide_border=true&langs_count=8" />
-</a>
 
-<!-- Contributions row -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamparmar-0&hide_border=true" alt="GitHub Streak" height="120"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=satyamparmar-0&style=flat-square" alt="Profile Views" height="30"/>
-</p>
+</div>
 
-<!-- Total contributions row -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=satyamparmar-0&combine_all_years=true&hide_border=true" alt="Total Contributions" height="120"/>
-</p>
+<div align="center">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamparmar-0&hide_border=true" alt="GitHub Streak" height="130"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=satyamparmar-0&combine_all_years=true&hide_border=true" alt="Total Contributions" height="130"/>
+  
+</div>
+
+> Note: Language stats approximate public repo code—not full expertise.
 > Note: Language stats approximate public repo code—not full expertise.
 
 ---
