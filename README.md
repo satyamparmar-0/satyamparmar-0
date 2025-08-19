@@ -31,7 +31,7 @@ I focus on writing clean code, clear abstractions, and shipping features that ma
 Rather than listing everything, here are categories I’ve worked on (see pinned repos below):
 - API-driven backend services
 - Full-stack web applications
-- AI/ML powered features (classification, automation, data insights)
+- AI/ML powered features (classification, automation, data insights, Gen AI)
 - Data storage & query optimization (SQL + MongoDB)
 - Utility scripts and developer productivity tools
 
