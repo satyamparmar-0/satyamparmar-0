@@ -113,8 +113,8 @@ If you’d like to discuss a project, collaborate, or review design ideas—feel
 
 ## 📬 Connect
 - GitHub: (you’re here)
-- Email: [satyamparmarsatyam@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/satyam-parmar-624a0b209/]
+- Email: satyamparmarsatyam@gmail.com
+- LinkedIn: https://www.linkedin.com/in/satyam-parmar-624a0b209/
 
 ---
 
