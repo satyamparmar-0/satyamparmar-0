@@ -60,7 +60,7 @@ You can explore the repositories on my profile for real implementations.
 </div>
 
 <div align="center">
-
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamparmar-0&hide_border=true" alt="GitHub Streak" height="130"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=satyamparmar-0&combine_all_years=true&hide_border=true" alt="Total Contributions" height="130"/>
   
